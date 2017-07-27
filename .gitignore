@@ -1,0 +1,14 @@
+# ignore all php files
+*.php
+# don't ignore this file
+!index.php
+# ignore all files in a directory with a trailing slash
+assest/videos/
+DS store
+.DS_Store
+*.zip
+*.gz
+
+
+
+
